@@ -33,7 +33,7 @@ The **Leap Frog Highball** contains \_\_\_ of gin
 
 ### Exercise 4
 
-On aerage the most used ingredient in the Boston Cocktails dataset is \_\_\_\_.
+On average the most used ingredient in the Boston Cocktails dataset is \_\_\_\_.
 
 ### Exercise 5
 
@@ -45,4 +45,4 @@ The characteristic alcoholic beverage of each of the first 4 principle component
 
 ### Exercise 7
 
-How would you interpretation the results of a PCA analysis to a client?
+How would you interpret the results of a PCA analysis for a client?
